@@ -1,1 +1,1 @@
-# Escape-Hunt-Mixed-Reality-MR-
+# Escape-Hunt:Mixed-Reality (MR)
